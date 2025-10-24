@@ -1,5 +1,5 @@
 <!-- Banner -->
-<h1 align="center">👋 Hi, I'm <span style="color:#0078D7;">Samer Abdelnabi</span></h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#0078D7;">Samer goma0</span></h1>
 <h3 align="center">💻 Backend .NET Developer | Passionate about building robust, scalable, and clean web solutions</h3>
 
 ---
